@@ -3,7 +3,7 @@
 ### ¡Hola Bienvenido a mi perfil!
 
 *Soy estudiante de la carrera de Ing en Sistemas Computacionales en el TecTijuana soy 
-una chica apacionada por aprender acerca del mundo de la tecnologìa y la programaciòn
+una chica apacionada por aprender acerca del mundo de la tecnologìa y la programaciòn*
 
 - 💻 Estoy aprendiendo Sobre desarrollo web y reforzando mis conocimientos de c++
 - 🤗 Me gusta aprender cosas nuevas y el trabajo en equipo
