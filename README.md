@@ -9,7 +9,7 @@ una chica apacionada por aprender acerca del mundo de la tecnologìa y la progra
 - 💻 Estoy aprendiendo Sobre desarrollo web y reforzando mis conocimientos de c++
 - 🤗 Me gusta aprender cosas nuevas y el trabajo en equipo
 - 😌 Me considero una persona muy paciente 
-- 👀 Lenguajes y herramientas C++, C#, Java, python MySQL, Djangog, Git y HTML5.
+- 👀 Lenguajes y herramientas C++, C#, Java, python, MySQL, Django, Git y HTML5.
 - 📫 puedes contactarme a ana.mastinez201@tectijuana.edu.mx
 - 🧐 Dato curioso ne gusta mucho leer🤭  
 
